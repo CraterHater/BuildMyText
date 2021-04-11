@@ -1,0 +1,6 @@
+name: BuildMyText
+version: 1.0.0
+main: bmt.craterhater.main.Main
+author: CraterHater
+description: Plugin to build large text using blocks
+api-version: 1.13
